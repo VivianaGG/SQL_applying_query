@@ -1,3 +1,4 @@
+# This is my second local commit
 SELECT
 	emp_no,
     first_name,

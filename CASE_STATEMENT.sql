@@ -9,7 +9,7 @@ SELECT
 FROM
 	employees;
     
-#Another way to tha CASE Statement
+#Another way to do that CASE Statement
 SELECT
 	emp_no,
     first_name,
